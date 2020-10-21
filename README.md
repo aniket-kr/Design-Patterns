@@ -6,4 +6,5 @@ these patterns.
 
 Contents
 --------
- 1. Strategy Pattern
+ 01. Strategy Pattern
+ 02. Abstract Factory Pattern
