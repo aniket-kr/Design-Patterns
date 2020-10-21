@@ -6,4 +6,4 @@ these patterns.
 
 Contents
 --------
-_(will populate as development progresses)_
+ 1. Strategy Pattern
