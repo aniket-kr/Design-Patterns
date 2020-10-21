@@ -1,0 +1,6 @@
+# IDE Config
+.idea/
+
+# Compiled Files
+out/
+**/*.class
