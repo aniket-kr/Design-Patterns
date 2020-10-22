@@ -7,4 +7,5 @@ these patterns.
 Contents
 --------
  01. Strategy Pattern
- 02. Abstract Factory Pattern
+ 02. Observer Pattern
+ 03. Abstract Factory Pattern
