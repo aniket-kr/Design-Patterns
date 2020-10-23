@@ -10,3 +10,4 @@ Contents
  02. Observer Pattern
  03. Abstract Factory Pattern
  04. Builder Pattern
+ 05. Decorator Pattern
